@@ -20,3 +20,6 @@ https://newidco-babysharktv-2-mx.samsung.wurl.tv/3000.m3u8
 
 #EXTINF:-7 , RCN
 https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zdrv1AFCuiJnDE-a_pspWGUN8dfuwmOVmC1Z1lohu9FJ)/dm/3/x7vyv0z/s/live-3.m3u8
+
+#EXTINF:-7 , TELEVEN
+https://cloud.streamingconnect.tv/hls/televen/televenweb.m3u8
