@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 , AQUI NO HAY QUIEN VIVA
+https://cdn5.lqsa.es/hls/0/stream.m3u8
+
+#EXTINF:-2 , LA QUE SE AVECINA
+https://cdn7.lqsa.es/hls/1/stream.m3u8
+
+#EXTINF:-3 , SOUTH PARK
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=baf5&deviceDNT=0&deviceModel=0
+
+#EXTINF:-4 , LOSIGSON
+https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w2093469700.m3u8
+
+#EXTINF:-5 , CARTON NET
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+
+#EXTINF:-6 , BABY SHARKTV
+https://newidco-babysharktv-2-mx.samsung.wurl.tv/3000.m3u8
