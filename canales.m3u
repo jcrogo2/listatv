@@ -6,8 +6,8 @@ https://cdn5.lqsa.es/hls/0/stream.m3u8
 #EXTINF:-2 , LA QUE SE AVECINA
 https://cdn7.lqsa.es/hls/1/stream.m3u8
 
-#EXTINF:-3 , SOUTH PARK
-https://tv.x10.mx/f8qr/mp.php?http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+#EXTINF:-3 , RICK AND MORTY
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_de.m3u8?hdnts=
 
 #EXTINF:-4 , LOSIGSON
 https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w2093469700.m3u8
