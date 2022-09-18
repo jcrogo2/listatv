@@ -32,3 +32,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f368
 
 #EXTINF:-9 , DISCOVERY CHANNEL
 https://cotel02.cdn.rcs.net.ar/mnp/discovery_hls/playlist.m3u8
+
+#EXTINF:-10 , TRUTV
+https://cotel02.cdn.rcs.net.ar/mnp/trutv_hls/playlist.m3u8
+
+#EXTINF:-11 , HBO LATINO
+https://is-tucuman.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
+
+
+
