@@ -18,8 +18,8 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 #EXTINF:-6 , BABY SHARKTV
 https://newidco-babysharktv-2-mx.samsung.wurl.tv/3000.m3u8
 
-#EXTINF:-7 , RCN
-https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zdrv1AFCuiJnDE-a_pspWGUN8dfuwmOVmC1Z1lohu9FJ)/dm/3/x7vyv0z/s/live-3.m3u8
+#EXTINF:-7 , HACHEB
+https://is-tucuman.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
 
 #EXTINF:-7 , TELEVEN
 https://cloud.streamingconnect.tv/hls/televen/televenweb.m3u8
@@ -36,8 +36,6 @@ https://cotel02.cdn.rcs.net.ar/mnp/discovery_hls/playlist.m3u8
 #EXTINF:-10 , TRUTV
 https://cotel02.cdn.rcs.net.ar/mnp/trutv_hls/playlist.m3u8
 
-#EXTINF:-11 , HBO LATINO
-https://is-tucuman.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
 
 
 
